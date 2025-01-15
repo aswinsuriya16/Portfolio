@@ -5,6 +5,9 @@
     font-family: 'Poppins', sans-serif;
 }
 
+
+
+  
 body {
     color: #ededed;
     background: #121212;
@@ -208,7 +211,14 @@ body {
                 0 0 60px rgba(15, 255, 15, 0.3); /* Layers of glow for an attractive effect */
 }
 
-
+.about-text{
+    margin-top: 5px;
+    padding: 20px;
+    background-color: #1e1e1e;
+    box-shadow: 0 0 10px rgba(15, 255, 15, 0.3), 
+                0 0 20px rgba(15, 255, 15, 0.1);
+    margin-right: 15%;            
+}
 
 .about text h2{
     font-size: 60px;
